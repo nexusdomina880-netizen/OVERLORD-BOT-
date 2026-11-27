@@ -1,2 +1,10 @@
 # OVERLORD-BOT-
-Con overlord bot hai funzioni immense con cui puoi divertiti e hai funzioni per i gruppi 
+    👑 Titolo MORTEX OVERLORD BOT
+* ⚡ Caratteristiche
+* 💀 Comandi
+* 🛡️ Protezione
+* 📱 Installazione Termux
+* 💻 Installazione VPS
+* 🔥 Attivazione
+* 📊 Monitoraggio
+* 👑 Developer MORTEX
