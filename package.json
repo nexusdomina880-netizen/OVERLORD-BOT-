@@ -1,0 +1,11 @@
+{
+  "name": "mortex-overlord-bot",
+  "version": "1.0.0",
+  "description": "MORTEX OVERLORD WhatsApp Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
